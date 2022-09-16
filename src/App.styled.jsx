@@ -7,7 +7,7 @@ export const Wrapper = styled.div`
   min-height: 90vh;
   padding-top: 10vh;
   font-size: 2rem;
-  background: #cbf1f7;
+  background: linear-gradient(to top left, powderblue, pink);
 `;
 
 export const PageHeader = styled.h1`

@@ -22,7 +22,7 @@ export const DeleteBtn = styled.button`
   vertical-align: 0.5rem;
   font-size: 1rem;
   font-weight: bold;
-  background: #f7a9a3;
+  background: #7B68EE;
   border: 1px solid;
   border-radius: 0.5rem;
   box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
